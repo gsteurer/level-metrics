@@ -1,0 +1,22 @@
+[
+    {
+        "level_name": "foo",
+        "value": 2,
+        "timestamp": "2022-04-01T12:00:00.00Z"
+    },
+    {
+        "level_name": "foo",
+        "value": 3,
+        "timestamp": "2022-04-02T12:00:00.00Z"
+    },
+    {
+        "level_name": "foo",
+        "value": 4,
+        "timestamp": "2022-04-03T12:00:00.00Z"
+    },
+    {
+        "level_name": "bar",
+        "value": 5,
+        "timestamp": "2022-04-03T12:00:00.00Z"
+    }
+]
